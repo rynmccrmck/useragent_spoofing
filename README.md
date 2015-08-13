@@ -1,6 +1,6 @@
 # useragent_spoofing
 
-Method for determining if a useragent is spoofed
+Method for determining if a useragent has been spoofed.  This is an important feature in fraud prevention online.  
 
 using: http://kangax.github.io/js-checker/ + browserstack
 
